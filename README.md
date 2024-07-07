@@ -1,5 +1,9 @@
 # Kafka Exercise from Udemy course: Banking System
 
+Udemy course: [Distributed Systems & Cloud Computing with Java](https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/?couponCode=KEEPLEARNING)
+
+Author of course: Michael Pogrebinsky 
+
 ### Background
 - Let's assume we have a large number of users. Each user has an account with our bank and was also issued a credit card to make purchases in stores.
 
